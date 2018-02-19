@@ -1,0 +1,29 @@
+body {
+  background-color: #ffffcc;
+}
+
+p {
+  font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+ul {
+  font-size: 40px;
+  border: dashed;
+}
+
+#target_div {
+  padding: 25px 30px 20px 15px;
+  border: dashed orange;
+  background-color: purple;
+}
+
+a:hover {
+  color: #00e1ff;
+}
+
+#target_form {
+  float: right;
+  padding: 75px;
+  margin-right: 600px;
+  margin-bottom: 150px;
+}
